@@ -1,8 +1,0 @@
-{
-    "python.unitTest.pyTestArgs": [
-        "__pycache__"
-    ],
-    "python.unitTest.unittestEnabled": false,
-    "python.unitTest.nosetestsEnabled": false,
-    "python.unitTest.pyTestEnabled": true
-}

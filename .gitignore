@@ -5,3 +5,7 @@
 /canal-client/*.project
 /canal-client/.settings
 /canalclient/.idea
+/canal-client/.vscode
+/canal-client/target
+/python_sync_nosql/.pytest_cache/v/cache
+/python_sync_nosql/__pycache__

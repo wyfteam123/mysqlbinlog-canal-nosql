@@ -1,6 +1,5 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# @author: liukelin  314566990@qq.com
 
 '''
 

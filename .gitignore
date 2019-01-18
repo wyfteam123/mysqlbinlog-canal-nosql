@@ -1,0 +1,7 @@
+/.vscode
+/canal-client/.idea
+/canal-client/*.DS_Store
+/canal-client/*.classpath
+/canal-client/*.project
+/canal-client/.settings
+/canalclient/.idea

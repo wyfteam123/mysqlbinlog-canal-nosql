@@ -39,7 +39,7 @@ show variables like 'log_%';
 <img src="https://github.com/wyfteam123/mysqlbinlog-canal-nosql/blob/master/readmesource/showvariableslog.png"/>
 
 ### canal-server服务
-<a href="https://github.com/alibaba/canal/releases">点击下载ali-canal<a/>
+<a href="https://github.com/alibaba/canal/releases" target="_blank">点击下载ali-canal<a/>
 配置canal-server，修改\canal.deployer-1.0.22\conf\example\instance.properties
 ```
 ## mysql serverId 务必与master数据库不同

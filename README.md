@@ -1,5 +1,5 @@
 
-<img src="https://github.com/wyfteam123/mysqlbinlog-canal-nosql/blob/master/readmesource/binlog.png"/>
+<img src="https://github.com/wyfteam123/mysqlbinlog-canal-nosql/blob/master/readmesource/binlog.png"/><br>
 ## 原理概述
 ### binlog:<br>
   mysql在运行过程中执行的DML（增删改）操作都会以二进制形式记录在binlog中<br>
